@@ -1,5 +1,6 @@
+
 # Nome da aplicação
-Calculador de aluguel
+Calculador de aluguel  
 
 # Objetivo da aplicação
 Tem como objetivo calcular o aluguel do salão de beleza Miss Brasil
